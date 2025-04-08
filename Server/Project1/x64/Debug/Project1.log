@@ -1,0 +1,4 @@
+﻿  Server.cpp
+C:\Users\ComTech\Desktop\soketi c++\Server&Client Sockets\Server\Project1\Server.cpp(25,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ComTech\Desktop\soketi c++\Server&Client Sockets\Server\Project1\Server.cpp(52,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\ComTech\Desktop\soketi c++\Server&Client Sockets\Server\x64\Debug\Server.exe

@@ -1,0 +1,4 @@
+﻿  Klijent.cpp
+C:\Users\ComTech\Desktop\soketi c++\Server&Client Sockets\Klijent\Klijent\Klijent.cpp(21,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ComTech\Desktop\soketi c++\Server&Client Sockets\Klijent\Klijent\Klijent.cpp(35,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Klijent.vcxproj -> C:\Users\ComTech\Desktop\soketi c++\Server&Client Sockets\Klijent\x64\Debug\Klijent.exe
